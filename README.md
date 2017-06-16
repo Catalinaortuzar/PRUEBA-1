@@ -1,7 +1,7 @@
 <!DOC TYPE html>
 <html>
 <head>
-<title>PRUEBA 1</title>
+<title>PRUEBA 10</title>
 </head>
 <body>
 <h1>PRUEBA 1</h1>
