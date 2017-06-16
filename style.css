@@ -1,3 +1,6 @@
+<link href="https://catalinaortuzar.github.io/PRUEBA-1/" 
+type="text/css" 
+rel="stylesheet">
 h1{
 font-family:Arial;
 font-size:20px;
@@ -14,6 +17,7 @@ font-weight:400px;
 font-style:italic;
 text-transform:lowercase;
 text-align:left;
+margin:5px;
 }
 p{
 font-family:"Garamond";
