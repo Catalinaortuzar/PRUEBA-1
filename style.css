@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <link href="https://catalinaortuzar.github.io/PRUEBA-1/" 
 type="text/css" 
 rel="stylesheet">
+=======
+>>>>>>> f98d8094b30d2f2481c945d09829c00732d331e3
 h1{
 font-family:Arial;
 font-size:20px;
@@ -17,7 +20,10 @@ font-weight:400px;
 font-style:italic;
 text-transform:lowercase;
 text-align:left;
+<<<<<<< HEAD
 margin:5px;
+=======
+>>>>>>> f98d8094b30d2f2481c945d09829c00732d331e3
 }
 p{
 font-family:"Garamond";
@@ -35,4 +41,8 @@ content-header{
 height:20px:
 width:20px;
 color:blue;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f98d8094b30d2f2481c945d09829c00732d331e3
