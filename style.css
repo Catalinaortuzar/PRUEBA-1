@@ -80,3 +80,15 @@ p {
   font-family: 'Quicksand', sans-serif;
   font-size: 24px;
   }
+ul {
+    font-family:roboto;
+      font-size:14;
+      font-weight:100px;
+    border: 2px solid rgba(9, 89, 0, 0.3);
+    width:90px;
+  }
+ol{
+   font-family:roboto;
+      font-size:14;
+      font-weight:100px;
+}
